@@ -73,6 +73,8 @@ public class MainActivity extends AppCompatActivity {
 
                 */
 
+                
+
                 btn1.setText(rbtn1);
                 btn2.setText(rbtn2);
 
